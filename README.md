@@ -25,4 +25,4 @@ Repositori ini dibuat untuk mencoba dan belajar setup proyek Laravel pertama men
 
 ## Catatan
 Repo ini hanya untuk belajar dan eksperimen.
-Silakan kontribusi lewat issue atau pull request jika ada ide atau saran.
+Silakan kontribusi lewat _issue_ atau _pull request_ jika ada ide atau saran.
